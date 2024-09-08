@@ -51,19 +51,5 @@
     "@ton/core": ">=0.56.0",
     "@ton/crypto": ">=3.2.0"
   },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  },
-  "release-it": {
-    "github": {
-      "release": true
-    },
-    "plugins": {
-      "@release-it/keep-a-changelog": {
-        "filename": "CHANGELOG.md"
-      }
-    }
-  },
   "packageManager": "yarn@3.4.1"
 }

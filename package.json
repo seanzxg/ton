@@ -1,7 +1,7 @@
 {
   "name": "@ton/ton",
   "version": "15.0.0",
-  "repository": "https://github.com/ton-org/ton.git",
+  "repository": "https://github.com/seanzxg/ton",
   "author": "Whales Corp. <developers@whalescorp.com>",
   "license": "MIT",
   "main": "dist/index.js",
